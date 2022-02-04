@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-[GitHub Profile Views Counter]: https://github.com/CNorse/github-profile-views-counter
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CNorse&label=Profile%20views&color=green&style=flat" alt="CNorse" /> </p>
 
 <br >
 
