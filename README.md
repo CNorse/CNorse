@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ### Tech and Tools
 
-[![AdobeXD](https://www.fluxible.ca/media/2020/05/Adobe_XD_logo_one_line.png)](https://www.adobe.com/sea/products/xd.html)
+[![Adobe XD](https://img.shields.io/badge/mentioned%20in-xd--awesome-%23FF2BC2.svg?colorA=2E001E)](https://www.adobe.com/sea/products/xd.html)
