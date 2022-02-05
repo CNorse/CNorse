@@ -4,25 +4,28 @@
 
 Here are some ideas to get you started:
 -->
-### Hi there 👋, Im Clifford
+### Hi there 👋, Im Clifford 
 
 ## Front End Developer
 
 <br />
 
 <div align="Center">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="75" height="75" />
 <p> <img src="https://komarev.com/ghpvc/?username=CNorse&label=Profile%20views&color=green&style=flat" alt="CNorse" /> </p> 
 <a href="https://github.com/CNorse?tab=repositories"><Strong>Explore the Repositories</Strong></a>
 </div>
 
 <br />
 
-- 🌱 I’m currently learning ... Computer Hardware
-- 👯 I’m looking to collaborate on ... Flutter teams
+- 🌱 I’m currently learning Backend and Computer Hardware.
+- 👯 I’m looking to collaborate on Flutter teams.
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... friendly specimen.
 
 <br />
+
+<!-- Insert Here my Personal Website -->
 
 ### Tech and Tools Preferences
 
@@ -34,6 +37,8 @@ Here are some ideas to get you started:
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
