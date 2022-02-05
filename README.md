@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ### Tech and Tools
 
-[![Adobe XD](https://img.shields.io/badge/mentioned%20in-xd--awesome-%23FF2BC2.svg?colorA=2E001E)](https://www.adobe.com/sea/products/xd.html)
+[![Adobe XD]https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6](https://www.adobe.com/sea/products/xd.html) · [![Vercel]https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white](https://vercel.com/)
