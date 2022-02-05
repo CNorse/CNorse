@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 ## Front End Developer
 
 <br />
+
 <div align="Center">
-<h3 align="center"> </h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=CNorse&label=Profile%20views&color=green&style=flat" alt="CNorse" /> </p> 
+<p> <img src="https://komarev.com/ghpvc/?username=CNorse&label=Profile%20views&color=green&style=flat" alt="CNorse" /> </p> 
 <a href="https://github.com/CNorse?tab=repositories"><Strong>Explore the Repositories</Strong></a>
 </div>
 
@@ -23,3 +24,6 @@ Here are some ideas to get you started:
 
 <br />
 
+### Tech and Tools
+
+[![AdobeXD](https://www.fluxible.ca/media/2020/05/Adobe_XD_logo_one_line.png)](https://www.adobe.com/sea/products/xd.html)
