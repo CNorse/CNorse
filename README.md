@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <br />
 
 <div align="Center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="75" height="75" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150" height="100" />
 <p> <img src="https://komarev.com/ghpvc/?username=CNorse&label=Profile%20views&color=green&style=flat" alt="CNorse" /> </p> 
 <a href="https://github.com/CNorse?tab=repositories"><Strong>Explore the Repositories</Strong></a>
 </div>
